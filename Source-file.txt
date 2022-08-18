@@ -1,2 +1,4 @@
 1. Code for feature 1
 *********************
+2. Code for feature 2
+*********************
